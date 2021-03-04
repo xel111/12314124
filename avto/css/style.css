@@ -1,0 +1,396 @@
+body { 
+font-family: Signika;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+color:red;
+}
+
+a {
+    font-family: Signika;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 30px;
+}
+.name1 {
+color:red;
+max-width: 1px;
+
+
+}
+.next{
+position: relative;
+    color:  blue;
+top: -57px;
+left: 257px;
+max-width: 1px;
+}
+
+.fon1 {
+    position: relative;
+    width: 1860px;
+    height: 1000px;
+    left: -10px;
+    top: -20px;
+    background: url(../img/background.jpg) no-repeat center center fixed;
+    background-size: cover;
+    filter: blur(4px), drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    max-height: 1000px;
+}
+
+.box1{
+    position: relative;
+    width: 700px;
+    height: 100px;
+    top: -1000px;
+    left: 650px;
+    border: 10px solid white;
+    box-sizing: border-box;
+    border-radius: 40px;
+    max-height: 1000px;
+}
+
+.box2{
+    position: relative;
+    width: 20px;
+    height: 80px;
+    top: -1090px;
+    left: 980px;
+    background: white;
+    box-sizing: border-box;
+
+}
+
+.katalog {
+    position: relative;
+    top: -1170px;
+    left: 750px;
+    color: white;
+    max-width: 1px;
+    }
+
+.Oplata{
+    position: relative;
+    top: -1230px;
+    left: 1100px;
+    color: white;
+    max-width: 1px;
+    max-height: 10px;
+
+}
+
+.lypa {
+position: relative;
+top: -1100px;
+left: 550px;
+max-width: 100px;
+}
+
+.dostavka {
+position: relative;
+max-width: 100px;
+font-size: 16px;
+left: 15px;
+top: -43px;
+color: white;
+}
+
+
+
+.skidki {
+    position: relative;
+    top: -1330px;
+    left: 800px;
+    max-width: 100px;
+    }
+    
+    .skidki1 {
+    position: relative;
+    max-width: 100px;
+    font-size: 16px;
+    left: 15px;
+    top: -43px;
+    color: white;
+    }
+
+    .rybl {
+        position: relative;
+        top: -1530px;
+        left: 1000px;
+        max-width: 100px;
+        }
+        
+        .rybl1 {
+        position: relative;
+        max-width: 100px;
+        font-size: 16px;
+        left: 15px;
+        top: -33px;
+        color: white;
+        }
+
+        .pochta {
+            position: relative;
+            top: -1750px;
+            left: 1200px;
+            max-width: 100px;
+            }
+            
+            .pochta1 {
+            position: relative;
+            max-width: 100px;
+            font-size: 16px;
+            left: 15px;
+            top: -33px;
+            color: white;
+            }
+
+.niz {
+    position: relative;
+    top: -1300px;
+    left: 875px;
+    max-width: 100px;
+    color: white;
+
+}
+
+
+.fon2 {
+    position: relative;
+    width: 1860px;
+    height: 1000px;
+    top: -1200px;
+    left: -10px;
+    background: url(../img/background2.jpg) no-repeat center center fixed;
+    background-size: cover;
+    filter: blur(4px), drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.Kataloge1 {
+    position: relative;
+    top: -65px;
+    left: 855px;
+    max-width: 100px;
+    color: white;
+    
+}
+.Kataloge {
+    position: relative;
+    top: -2200px;
+    left: 875px;
+    max-width: 1px;
+    color: white;
+    max-height: 10px;
+
+}
+
+.kkk {
+    position: relative;
+    top: 60px;
+    left: -700px;
+    max-width: 100px;
+    }
+    
+    .kkk1 {
+    position: relative;
+    max-width: 100px;
+    font-size: 16px;
+    left: 100px;
+    top: -20px;
+    color: white;
+    }
+
+
+    .ts {
+        position: relative;
+        top: -240px;
+        left: -300px;
+        max-width: 100px;
+        }
+        
+        .ts1 {
+        position: relative;
+        max-width: 100px;
+        font-size: 16px;
+        left: 100px;
+        top: -20px;
+        color: white;
+        }
+
+
+        .td {
+            position: relative;
+            top: -540px;
+            left: 100px;
+            max-width: 100px;
+            }
+            
+            .td1 {
+            position: relative;
+            max-width: 100px;
+            font-size: 16px;
+            left: 100px;
+            top: -20px;
+            color: white;
+            }
+
+            .scep {
+                position: relative;
+                top: -840px;
+                left: 500px;
+                max-width: 100px;
+                }
+                
+                .scep1 {
+                position: relative;
+                max-width: 100px;
+                font-size: 16px;
+                left: 100px;
+                top: -20px;
+                color: white;
+                }
+
+                .byd {
+                    position: relative;
+                    top: -700px;
+                    left: -700px;
+                    max-width: 100px;
+                    }
+                    
+                    .byd1 {
+                    position: relative;
+                    max-width: 100px;
+                    font-size: 16px;
+                    left: 100px;
+                    top: -20px;
+                    color: white;
+                    }
+
+                    .tn {
+                        position: relative;
+                        top: -1030px;
+                        left: -300px;
+                        max-width: 100px;
+                        }
+                        
+                        .tn1 {
+                        position: relative;
+                        max-width: 100px;
+                        font-size: 16px;
+                        left: 100px;
+                        top: -20px;
+                        color: white;
+                        }
+
+                        .rp {
+                            position: relative;
+                            top: -1330px;
+                            left: 100px;
+                            max-width: 100px;
+                            }
+                            
+                            .rp1 {
+                            position: relative;
+                            max-width: 100px;
+                            font-size: 16px;
+                            left: 100px;
+                            top: -20px;
+                            color: white;
+                            }
+
+                            .abs {
+                                position: relative;
+                                top: -1630px;
+                                left: 500px;
+                                max-width: 100px;
+                                }
+                                
+                                .abs1 {
+                                position: relative;
+                                max-width: 100px;
+                                font-size: 16px;
+                                left: 100px;
+                                top: -20px;
+                                color: white;
+                                }
+
+
+                                {
+                                    box-sizing: border-box;
+                                  }
+                                  form {
+                                    position: relative;
+                                    width: 300px;
+                                    margin: 0 auto;
+                                    background: rgba(255, 255, 255, 0.45);
+                                    border-radius: 40px;
+                                    top: 750px;
+                                    left: 20px;
+                                  }
+                                  input,
+                                  button {
+                                    border: none;
+                                    outline: none;
+                                    background: transparent;
+                                    color: #ffffff;
+                            
+                                  }
+                                  input {
+                                    width: 70%;
+                                    height: 40px;
+                                    padding-left: 10px;
+                                  }
+                                  
+                                  input::-webkit-input-placeholder {
+                                    color: white;
+                                    font-style: italic;
+                                    font-size: 20px;
+                                  }
+
+ 
+                                   
+                                   .Contact {
+                                    top: -1640px;
+                                    left: -30px;
+                                   position: relative;
+                                   color: white;
+                                   max-width: 1px;
+                                   max-height: 1000px;
+                                   }
+
+
+.Nomer {
+    top: -1660px;
+    left: 10px;
+   position: relative;
+   color: red;
+   max-width: 1000px;
+   max-height: 1000px;
+   font-size: 12px;
+}
+
+.Vkon{
+
+    top: -1680px;
+    left: -100px;
+   position: relative;
+   color: blue;
+   max-width: 1px;
+   max-height: 1000px;
+font-size: 12px;
+cursor: pointer;
+
+}
+
+.Instagram {
+    top: -1725px;
+    left: 100px;
+   position: relative;
+   color: palevioletred;
+   max-width: 1px;
+   max-height: 1000px;
+   font-size: 12px;
+   cursor: pointer;
+}
